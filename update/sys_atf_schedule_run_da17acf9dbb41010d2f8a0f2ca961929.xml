@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <browser_name>chrome</browser_name>
+        <browser_version/>
+        <description>Run suite 'NeedIt app' on a system with this configuration:
+Chrome browser on any version
+Any operating system on any version</description>
+        <order>100</order>
+        <os_name>any</os_name>
+        <os_version/>
+        <schedule display_value="NeedIt App Suites">31e6e8f9dbb41010d2f8a0f2ca9619fb</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-16 03:17:55</sys_created_on>
+        <sys_id>da17acf9dbb41010d2f8a0f2ca961929</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_da17acf9dbb41010d2f8a0f2ca961929</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-16 04:00:10</sys_updated_on>
+        <test_suite display_value="NeedIt app">6a5f8cf9db741010d2f8a0f2ca961986</test_suite>
+        <watch_list/>
+    </sys_atf_schedule_run>
+</record_update>
